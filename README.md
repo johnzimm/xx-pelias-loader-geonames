@@ -1,6 +1,8 @@
 
 ## pelias-geonames
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pelias/geonames.svg)](https://greenkeeper.io/)
+
 `pelias-geonames` comes with a command-line tool to make it easier to download/parse and import country data in to Pelias.
 
 ### install
